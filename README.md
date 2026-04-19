@@ -33,6 +33,16 @@ This project is built for learning how to work with REST APIs, JSON data, and se
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/weather-cli.git
+git clone https://github.com/oparekwafo/weather-cli.git
 cd weather-cli
+
+
+### 2. Install Dependencies
+```bash
+pip install requests python-dotenv
+
+
+### 3. Create a .env File
+
+
 
