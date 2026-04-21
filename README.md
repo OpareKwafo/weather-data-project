@@ -64,13 +64,14 @@ https://api.openweathermap.org/data/2.5/weather
 https://openweathermap.org/api
 
 ## 📁 Project Structure
-
+```text
 weather-cli/
 │
 ├── weather.py
 ├── .env
 ├── .gitignore
 └── README.md
+```
 
 ## 📚 What I Learned
 
