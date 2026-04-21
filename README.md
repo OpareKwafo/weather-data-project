@@ -52,6 +52,16 @@ python weather.py "City Name" COUNTRY_CODE
 ```
 python weather.py "San Francisco" US
 ```
+
+### Example Output
+```
+City: San Francisco
+Temperature: 16.7°C
+Feels Like: 15.2°C
+Condition: broken clouds
+Humidity: 72%
+Wind Speed: 5.1 m/s
+```
 ## 🔐 Security Notice
 
 - API keys are stored in .env
