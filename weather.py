@@ -57,4 +57,4 @@ clean_data = {
 
 # Saving results as JSON for future use
 with open("weather.json", "w") as file:
-    json.dump(clean_data, file, indent=2)
+    json.dump(clean_data, file, indent=3)
