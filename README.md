@@ -32,13 +32,26 @@ This project is built for learning how to work with REST APIs, JSON data, and se
 ## Installation
 
 ### 1. Clone the repository
-
+```
+git clone https://github.com/oparekwafo/weather-cli.git
+cd weather-cli
+```
 ### 2. Install Dependencies
-
+```
+pip install requests python-dotenv
+```
 ### 3. Create a .env file
-
+```
+OPENWEATHER_API_KEY=your_api_key_here
+```
 ## ▶️ Usage
-
+```
+python weather.py "City Name" COUNTRY_CODE
+```
+### Example
+```
+python weather.py "San Francisco" US
+```
 ## 🔐 Security Notice
 
 - API keys are stored in .env
