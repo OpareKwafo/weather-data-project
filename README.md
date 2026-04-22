@@ -91,7 +91,7 @@ weather-cli/
 - Environment variables
 - Secure coding practices
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 - 5-day forecast support
 - Better error handling
@@ -99,7 +99,7 @@ weather-cli/
 - Unit conversion (°C / °F)
 - Save weather history
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Built as a Python practice project for API integration and CLI development.
 
